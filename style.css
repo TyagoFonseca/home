@@ -6,7 +6,7 @@ body {
 }
 
 .container-mural-white {
-  background: #F7F7Fb;
+  background: #F8F8FC;
   margin: 64px;
   border-radius: 25px;
   box-shadow: 3px 4px 12px #0E1D2F;
@@ -93,7 +93,7 @@ body {
 }
 
 .dark .container-mural-white {
-  background: #141417;
+  background: #0D0D0F;
   color: #F6F6F6;
 }
 
