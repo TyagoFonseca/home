@@ -55,7 +55,7 @@ body {
   font-weight: 450;
   padding: 1px 24px;
   color: #1C1C1C;
-  background: #F9F9FD; #F0F0F6
+  background: #F9F9FD;
 }
 
 .container-mine {
@@ -67,7 +67,8 @@ body {
   padding: 25px;
   box-shadow: 2px 3px 6px rgba(66, 16, 106, .33);
 }
-
+------------------------------------------------
+     ATENÇÃO
 .texto-secundario-container-mine {
   list-style: none;
   font-wight: 50;
@@ -87,14 +88,15 @@ body {
   justify-content: center;
   align-itens: center;
 }
-
+    ATENÇÃO
+--------------------------------------------------
 .dark {
   background: linear-grandient(236.85deg, #375B86 27.26%, #6B87A9 96.03%);
 }
 
 .dark .container-mural-white {
   background: #02040A;
-  color: #ff6f00; #F6F6F6 (EDIT)
+  color: #F5F5FF;
 }
 
 .dark .container-mine{
@@ -104,5 +106,5 @@ body {
 .dark .box-tema-claro-escuro-button button{
   background: #02040A;
   color: #FAFAFF;
-  border: 6px solid #EBEBF6;
+  border: 3px solid #E1E1EC;
 }
