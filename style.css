@@ -9,7 +9,7 @@ body {
   background: #F9F9FD;
   margin: 64px;
   border-radius: 25px;
-  box-shadow: 3px 4px 12px #04152B;
+  box-shadow: 3px 4px 12px #031325;
   color: 1C1C1C;
   padding: 64px;
 }
@@ -93,8 +93,8 @@ body {
 }
 
 .dark .container-mural-white {
-  background: #0A0A0E;
-  color: #F6F6F6;
+  background: #02040A;
+  color: #ff6f00; #F6F6F6 (EDIT)
 }
 
 .dark .container-mine{
@@ -102,7 +102,7 @@ body {
 }
 
 .dark .box-tema-claro-escuro-button button{
-  background: #0A0A0E; #222227
-  color: #FFFFFF;
-  border: 2px solid #d42828; #F7F7F7
+  background: #02040A;
+  color: #FAFAFF;
+  border: 6px solid #EBEBF6;
 }
