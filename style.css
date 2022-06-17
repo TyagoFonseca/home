@@ -67,8 +67,8 @@ body {
   padding: 25px;
   box-shadow: 2px 3px 6px rgba(66, 16, 106, .33);
 }
-<------------------------------------------------
-     ATENÇÃO>
+------------------------------------------------
+     ATENÇÃO
 .texto-secundario-container-mine {
   list-style: none;
   font-wight: 50;
@@ -92,8 +92,8 @@ body {
 .EDIT{
 
 }
-    <ATENÇÃO
--------------------------------------------------->
+    ATENÇÃO
+--------------------------------------------------
 .dark {
   background: linear-grandient(236.85deg, #375B86 27.26%, #6B87A9 96.03%);
 }
@@ -110,5 +110,5 @@ body {
 .dark .box-tema-claro-escuro-button button{
   background: #02040A;
   color: #FAFAFF;
-  border: 2px solid #E1E1EC;
+  border: 1px solid #E1E1EC;
 }
