@@ -6,7 +6,7 @@ body {
 }
 
 .container-mural-white {
-  background: #F9F9FD;
+  background: #FCFCFF;
   margin: 64px;
   border-radius: 25px;
   box-shadow: 3px 4px 12px #020C16;
@@ -54,14 +54,14 @@ body {
   font-size: 15px;
   font-weight: 450;
   padding: 1px 24px;
-  color: #fa0707; #1C1C1C- SUAVIZAR O PRETO (EDIT)
-  background: #F9F9FD;
+  color: #1E1E21;
+  background: #FCFCFF;
 }
 
 .container-mine {
   display: flex;
   Fflex-direction: column;
-  background: linear-gradient(230.65deg, #DECEE4 3.49%, #D7D6FF 100%);
+  background: linear-gradient(230.65deg, #E1E3FF 3.49%, #D7D6FF 100%);
   margin-top: 33px;
   border-radius: 27px;
   padding: 25px;
